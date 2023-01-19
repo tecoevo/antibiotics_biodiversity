@@ -1,7 +1,5 @@
 # Antibiotic-mediated interactions and microbial community stability
 
-Project with Gaurav Athreya, Chaitanya S. Gokhale, Prateek Verma.
-
 ----
 
 **Abstract.** The immense diversity observed in natural microbial communities is surprising in light of the numerous weapons microbes have evolved to inhibit each other's growth.
