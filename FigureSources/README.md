@@ -13,3 +13,4 @@ Figure 4: the plots are made using the script analyse_spatial_model.py in this d
 Figure 5: the heatmap on the left is again made using ./analyse_spatial_model.py,and the simplex on the right is colour_simplex.py which is made using the script colour_simplex.py
 
 All supplementary figures are standalone and do not make use of any data.
+
